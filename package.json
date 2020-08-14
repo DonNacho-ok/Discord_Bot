@@ -1,0 +1,22 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "testeo para crear un bot de discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonNacho-ok/Discord_Bot.git"
+  },
+  "author": "Nacho Grillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonNacho-ok/Discord_Bot/issues"
+  },
+  "homepage": "https://github.com/DonNacho-ok/Discord_Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
